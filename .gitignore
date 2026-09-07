@@ -1,0 +1,5 @@
+# personal progress state (delete this line if you want your ticks tracked in git)
+progress_bar_data.json
+
+__pycache__/
+*.pyc
